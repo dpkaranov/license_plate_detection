@@ -24,7 +24,7 @@ YOLO или «Только один раз взгляните» — это од�
 
 | YOLOv5 | YOLOv7 |
 | --- | --- |
-| Матрица ошибок (Confusion Matrix) |
+Матрица ошибок (Confusion Matrix)
 | <image src="./images/y5/confusion_matrix.png"></image> | <image src="./images/y7/confusion_matrix.png"></image> |  
 
 ## Оценка производительности моделей
