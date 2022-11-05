@@ -22,9 +22,6 @@ YOLO или «Только один раз взгляните» — это од�
 
 ### Тестирование
 
-                                                                                                YOLOv5 | YOLOv7
--------------------------------------------------------------------------------------------------------|---------------
-![alt text](https://github.com/dpkaranov/license_plate_detection/blob/master/images/y5/confusion_matrix.png?raw=true)   | ![alt text](https://github.com/dpkaranov/license_plate_detection/blob/master/images/y7/confusion_matrix.png?raw=true)
-                                                                                                       |
+![alt text](https://github.com/dpkaranov/license_plate_detection/blob/master/images/y5/confusion_matrix.png?raw=true)  
 
 ## Оценка производительности моделей
