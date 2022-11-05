@@ -20,11 +20,14 @@ YOLO или «Только один раз взгляните» — это од�
 
 <image src="./images/YOLOv5_metrics.png"></image>
 
-### Тестирование
+### Сравнение показателей YOLOv5 и YOLOv7 на тестовом датасете
 
 | YOLOv5 | YOLOv7 |
 | --- | --- |
-Матрица ошибок (Confusion Matrix)
-| <image src="./images/y5/confusion_matrix.png"></image> | <image src="./images/y7/confusion_matrix.png"></image> |  
+| <image src="./images/y5/confusion_matrix.png"></image> | <image src="./images/y7/confusion_matrix.png"></image> |
+| <image src="./images/y5/f1curve.png"></image> | <image src="./images/y7/F1_curve.png"></image> |
+| <image src="./images/y5/P_curve.png"></image> | <image src="./images/y7/P_curve.png"></image> |
+| <image src="./images/y5/PR_curve.png"></image> | <image src="./images/y7/PR_curve.png"></image> |
+| <image src="./images/y5/R_curve.png"></image> | <image src="./images/y7/R_curve.png"></image> |  
 
-## Оценка производительности моделей
+### Оценка производительности моделей
